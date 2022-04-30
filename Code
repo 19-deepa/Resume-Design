@@ -1,0 +1,41 @@
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<header>
+<center><h2>Deepa.V-Full Stack Developer</h2>
+<address>11/137, South Street,
+Parvalur(PO), Vriddhacahalam(TK), 
+Cuddalore District, Tamil Nadu.
+</address>
+<a href="deepavenkatesan002@gmail.com"></a></center>
+<hr></header>
+<h4>Career Goals</h4>
+<p>Aspiring for a career that will help me to explore myself fully and realize my potential.
+To utilize my skill thereby contributing towards the growth and development of the company.</p>
+<section>
+<h4>Skills</h4>
+<p>TECHNICAL SKILLS:
+Programming Languages: JAVA, PYTHON,C
+Scripted Language: HTML, CSS</p>
+<h4>Achievements</h4>
+<p>Winner in the Mime Competition held on 8 March 2022, Women’s day conducted by VelTech MultiTech Dr.Rr Dr.Sr Engineering College, Avadi.
+Winner in Kabaddi Match conducted by V.E.T Higher Secondary School in the year of 2016
+</p>
+<h4>Hobbies and Interests</h4>
+<p><ul>
+<li>Painting and drawing
+<li>Listening to Music 
+<li>Interested in Chess
+</ul></p>
+</section>
+<footer>
+<p>Gmail :</p> 
+<p><a href="malito:deepavenkatesan002@gmail.com">deepavenkatesan002@gmail.com</a></p>
+<p>Contact no.:</p>
+<p><a href="malito:2322322222">2322322222</a></p>
+</footer>
+</body>
+</html>
+
